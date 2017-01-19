@@ -3,6 +3,10 @@ Meeting Tools:
 ### History:
 @drnikki & @techgirlgeek gave a presentation about diversity and inclusion at DrupalCon New Orleans. A follow up BOF was held the next day.  Participants had so many ideas, and concerns and desires that we couldn’t do justice to most of them in the short amount of time we had.  The general consensus seemed to be “Let’s keep talking about this so we can address everyone’s thoughts.”
 
+### Callouts
+This meeting is chat-only. There is no video or audio component. There has been some confusion about that in the past.
+
+
 ### Purpose:
 To continue the conversation about diversity and inclusion within Drupal. This includes:
 - To provide a safe space to discuss issues of d&i within the Drupal community.
@@ -12,6 +16,7 @@ To continue the conversation about diversity and inclusion within Drupal. This i
 
 ### Every-meeting agenda:
 - purpose review
+- intros & rollcall
 - status update from last time
 - open discussion/call for topics
 - [topics of the day]
