@@ -8,7 +8,7 @@ Here’s a couple of things you should know before you dive into the channel!
 
 Drupal Diversity and Inclusion is an independent collective of volunteers who advocate for greater diversity in the community and more inclusive events, help create safe spaces, and build the capacity of allies.
 
-This group was created after DrupalCon New Orleans. Nikki Stevens & Karyn Cassio gave a presentation about diversity and inclusion. ++(link presentation page)++
+This group was created after DrupalCon New Orleans. Nikki Stevens & Karyn Cassio gave a [presentation about diversity and inclusion](https://events.drupal.org/neworleans2016/sessions/together-we-can-make-drupal-example-diversity-tech "presentation about diversity and inclusion").
 
 Nikki facilitated a follow up BOF was held the next day. Participants had so many ideas, and concerns and desires that we couldn’t do justice to most of them in the short amount of time we had. The general consensus seemed to be “Let’s keep talking about this so we can address everyone’s thoughts.” and so this group was created.
 
