@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="570px" height="265px" viewBox="0 0 570 265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Wordmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wordmark">
+            <g id="Logo" transform="translate(28.000000, 21.000000)">
+                <path d="M163.587082,185.263753 C181.94704,168.194323 211.538664,145.355263 230.656054,120.565275 C255.607258,88.2104352 251.506486,38.8379739 222.786946,15.1508649 C204.590657,0.143052417 185.427785,0.100408736 171.540207,1.66316658 C149.34464,4.16081558 128.526162,20.9517747 124.008373,34.488959 C119.573089,20.9314305 98.6977888,4.04947875 76.4373363,1.54452822 C62.549758,-0.018229619 43.3868868,0.0244140625 25.1905978,15.0322266 C-3.52894295,38.7193356 -7.62971472,88.0917969 17.3214896,120.446636 C36.4388793,145.236625 66.0305035,168.075685 84.3904613,185.145114 C106.728408,205.912918 124.026493,230.73438 124.026493,230.73438 C124.026493,230.73438 141.249135,206.031557 163.587082,185.263753 Z" id="Heart" fill="#39B5F2"></path>
+                <path d="M92.0720669,95.2870016 C79.0654293,111.219848 80.0445956,134.62529 95.0090806,149.433431 C103.015106,157.355812 113.507733,161.316522 124.000846,161.316522 C134.493715,161.316522 144.986343,157.355812 152.992125,149.433431 C167.95661,134.62529 168.933594,111.219848 155.926956,95.2870016 C143.635835,79.8142613 131.330404,72.7276091 124.000846,53.6042567 C116.671287,72.7276091 104.36343,79.8140213 92.0720669,95.2870016 Z" id="Drop" fill="#FFFFFF"></path>
+            </g>
+            <g id="Text" transform="translate(299.000000, 29.000000)" font-weight="500" font-family="SourceSansPro-Semibold, Source Sans Pro" fill="#000000" font-size="64">
+                <text id="Drupal-Diversity-&amp;" line-spacing="52" letter-spacing="-0.6">
+                    <tspan x="0" y="63">Drupal</tspan>
+                    <tspan x="195.568" y="75.6318359" letter-spacing="-0.88"></tspan>
+                    <tspan x="0" y="115" letter-spacing="-0.88">Diversity</tspan>
+                    <tspan x="0" y="167" letter-spacing="-0.88">&amp;</tspan>
+                </text>
+                <text id="Inclusion" letter-spacing="-1.76">
+                    <tspan x="0" y="207">Inclusion</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
