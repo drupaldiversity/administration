@@ -10,16 +10,16 @@ The Drupal Diversity and Inclusion Workgroup, also known as 'DD&I', is an indepe
 
 Come find us online!
 
-* (Out Website!) GitHub Pages | https://drupaldiversity.github.io/
-* Twitter | https://twitter.com/drupaldiversity
-* Instagram | https://www.instagram.com/drupaldiversity/
-* Slack | [Slack-Channel-Introduction.md](https://github.com/drupaldiversity/administration/blob/master/working-docs/slack-channel-introduction.md "Slack-Channel-Introduction.md")
+* **(Our Website!) GitHub Pages** | https://drupaldiversity.github.io/
+* **Twitter** | https://twitter.com/drupaldiversity
+* **Instagram** | https://www.instagram.com/drupaldiversity/
+* **Slack** | [Slack-Channel-Introduction.md](https://github.com/drupaldiversity/administration/blob/master/working-docs/slack-channel-introduction.md "Slack-Channel-Introduction.md")
 
 ### I have Questions!
 
 [We've outlined some answers!](https://drupaldiversity.github.io/faq/ "We've outlined some answers | Visit our FAQ page!")
 
-You should also learn [about](https://drupaldiversity.github.io/about/ "about") us and take some time to [get involved(https://drupaldiversity.github.io/get-involved/ "get involved")]!
+You should also learn [about](https://drupaldiversity.github.io/about/ "about") us and take some time to [get involved](https://drupaldiversity.github.io/get-involved/ "get involved")!
 
 ## Ways to Contribute
 
