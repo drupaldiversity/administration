@@ -60,11 +60,11 @@ If you’d like to contact a team lead to get involved right away:
 
 | Team        | Leader    
 |-------------|----------------
-| Leadership  | @drnikki 
-| Content | @sugaroverflow 
-| Technical | @cleverington 
-| Design | @cottser 
-| Moderation Guidance | @alannaburke
+| Leadership  | [@drnikki](https://github.com/drnikki "drnikki on github")
+| Content | [@sugaroverflow](https://github.com/sugaroverflow "sugaroverflow on github")
+| Technical | [@cleverington](https://github.com/cleverington "cleverington on github" )
+| Design | [@cottser](https://github.com/cottser "cottser on github")
+| Moderation Guidance | [@alannaburke](https://github.com/alannaburke "alannaburke on github")
 
 																																									   
 ## Ongoing Projects
