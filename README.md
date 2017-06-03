@@ -22,33 +22,59 @@ Come find us online!
 You should also learn [about](https://drupaldiversity.github.io/about/ "about") us and take some time to [get involved](https://drupaldiversity.github.io/get-involved/ "get involved")!
 
 ## Ways to Contribute
+We welcome all types of contributors - programmers, content managers, project support staff, and more. However you identify as a contributor and as part of the Drupal community, there is a place for you to get involved here.
 
 ### Weekly Meetings
-- info about meetings
-- in the slack channel (same link as above)
+- We meet in #diversity-inclusion channel in the Drupal slack every Thursday at 9am PST / 17:00pm UTC (The Time Zone Converter is handy for this). Get an invite to the Drupal slack and check out more 
+    - [Get an invite to the Drupal Slack](http://drupalslack.herokuapp.com/ "invite to drupal slack")
+    - [Check out our calendar to see our scheduled meetings](https://calendar.google.com/calendar/embed?src=c0ovgjsi6p70huaunbe2a3mpj8%40group.calendar.google.com&ctz=America/Los_Angeles "ddi html calendar")
 
 ### Issue Queue
-Labels for needs help/ needs feedback / discussion
-- Link directly to the issues!
+If there is an issue open in _any_ of our github repositories, it’s available to be worked on. We love to see people in the issue queues, and welcome people jumping in wherever they feel comfortable. 
+
+We try to label issues so that newcomers can quickly find tasks that match their interests. We borrowed this idea from [Girl Develop It’s issue queue](https://github.com/girldevelopit/gdi-website/issues "girl develop it issue queue).
+
+Here are some labels you can start with:
+    - [Help Wanted](http://bit.ly/ddi-issues-help-wanted "Help Wanted Issues")
+    - [Tasks](http://bit.ly/ddi-issues-task "Task Issues")
+    - [Discussion Issues](http://bit.ly/ddi-issues-discussion "Discussion Issues")
+    - [Feedback Needed](http://bit.ly/ddi-issues-needs-feedback "Feedback Needed")
 
 ### Teams
 We have teams dedicated to working on certain issues, the website, meetings and projects.
 
-| Team                                                                                                                                           | Description                                                                                                                                 | Current Focus                                                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Leadership Team                                                                                                                                | The Vision and Mission setters of the group. They who lead all. The One ring... err.... wrong fiction...                                    | Supporting Team stabilization for newly created teams.                                                                                                                                           |
-| [Content Team](https://github.com/drupaldiversity/administration/blob/master/working-docs/content-team.md "Content Team Homepage")             | The group whose true goal is the almighty **Content**. There's a saying _"Content is all"_ when communicating messages. This Team knows it. | Getting Social Media plans under control, creating effective communication between all Content Team members for creating scheduled/approved content / Public Relations style content, and more.  |
-| [Technical Team](https://github.com/drupaldiversity/administration/blob/master/working-docs/teams/technical-team.md "Technical Team Homepage") | Somebody's gotta keep this ship duct-taped together.                                                                                        | Getting a monthly meeting scheduled and outlining needed tasks, both those to support the other teams and team-internal.                                                                         |
-| [Design Team](https://github.com/drupaldiversity/administration/blob/master/working-docs/design-team.md "Design Team Homepage")                | Stuff about the Design Team                                                                                                                 | Stuff about what they are doing now.                                                                                                                                                             |
-| [Moderation Team](https://github.com/drupaldiversity/administration/blob/master/working-docs/moderation-team.md "Moderation Team")             | Stuff about the Moderation Team                                                                                                             | Stuff about what they are doing now.                                                                                                                                                             |
+| Team        | Description    | Current Focus | Links      
+|-------------|----------------|---------------| ---------------
+| Leadership Team | Define the group mission and long term strategies, check in with the other teams and represent the group publicly. | Supporting the newly created teams and drafting a position statement. | [Leadership issues](http://bit.ly/ddi-issues-leadership "leadership team issues")
+| Content Team |  Update social media channels, write/edit website and project content, coordinate the newsletter, and manage social crisis issues.| Organizing internal team efforts, communication efforts, and pushing for the creation of content | [Project Board](http://bit.ly/ddi-content-project-board "content team project board")
+| Technical Team | Keeping the ship duct-taped together, managing the technical side of the website and deploying new widgets/tool/surveys. Also maintaining the repos and Gitbooks.| Getting a monthly meeting scheduled and outlining needed tasks, both those to support the other teams and team-internal. | [Project board](http://bit.ly/ddi-tech-project-board "tech team project board")
+| Design Team | Coordinate design efforts and keep a consistent style guide on the website and projects.| Setting up the project, meeting, and creating tasks for the team.| [Project board](http://bit.ly/ddi-design-project-board "design team project board")
+| Moderation Guidance Team | Define moderation guidelines, support moderators, and provide tools for effective discussions.| Setting up the team meeting and discussions around moderation guidelines. | [Issue Queue](https://github.com/drupaldiversity/moderation-guidance/issues)
 
-### Current Projects
+#### I want to join a team!
+- Read more about [our teams](https://drupaldiversity.github.io/2017/05/11/teams.html "about the ddi teams")
 
-**Project name**
-- Link to Repo
-- Brief Description
-- Current open issues
+- Check out [our calendar](https://calendar.google.com/calendar/embed?src=c0ovgjsi6p70huaunbe2a3mpj8%40group.calendar.google.com&ctz=America/Los_Angeles "ddi html calendar") and attend the next meeting for the team you’re interested in. 
+
+If you’d like to contact a team lead to get involved right away: 
+
+| Team        | Leader    
+|-------------|----------------
+| Leadership  | @drnikki 
+| Content | @sugaroverflow 
+| Technical | @cleverington 
+| Design | @cottser 
+| Moderation Guidance | @alannaburke
+
+																																									   
+## Ongoing Projects
+
+**Event Organizer Packet**
+- Creating a guide for camp organizers to identify strategies they can use to increase diversity at their camps, possible roadblocks, solutions, and ways to make camps feel more inclusive. 
+- [Link to Repo]
+- [[Introduction]]
+- [Current open issues] for discussion. 
 
 ## Resources
-- The reading list
-- [DD&I Event Organizer Packet | Resources](https://drupal-diversity.gitbooks.io/drupal-organizer-resources/content/manuscript/resources/resources.html "DD&I Event Organizer Packet - Resources")
+- The reading list [https://github.com/drupaldiversity/administration/issues/83] 
+
