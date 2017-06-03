@@ -2,6 +2,19 @@
 
 ## Welcome to DD&I
 
+**Table of Contents**
+- [What is DD&I](/drupaldiversity/administration/blob/admin-readme-updates/README.md#what-is-ddi "What is DD&I")
+  - [How can I follow?](#how-can-i-follow "How can I follow?")
+  - [I have Questions!](#i-have-questions "I have Questions!")
+- [Ways to Contribute](#ways-to-contribute "Ways to Contribute")
+    - [Weekly Meetings](#weekly-meetings "Weekly Meetings")
+    - [Issue Queue](#issue-queue "Issue Queue")
+    - [Teams](#teams "Teams")
+        - [I want to join a team](#i-want-to-join-a-team "I want to join a team")
+- [Ongoing Projects](#ongoing-projects "Ongoing Projects")
+- [Resources](#resources "Resources")
+   - [Working Documents](#working-docs "Working Documents")
+
 ### What is DD&I
 
 The Drupal Diversity and Inclusion Workgroup, also known as 'DD&I', is an independent collective of volunteers who advocate for greater diversity in the community and more inclusive events, help create safe spaces, and build the capacity of allies.
