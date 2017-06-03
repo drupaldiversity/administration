@@ -78,3 +78,10 @@ If you’d like to contact a team lead to get involved right away:
 ## Resources
 - The reading list [https://github.com/drupaldiversity/administration/issues/83] 
 
+### Working Docs
+Our working documents are another kind of resources that we've put together. 
+
+| Document | Description
+|---------------|---------------
+|[Slack Channel Introduction](https://github.com/drupaldiversity/administration/blob/master/working-docs/slack-channel-introduction.md "slack channel introduction") | This document was put together as a walkthrough of what our slack channel #diversity-inclusion is for and what kinds of things are worked on there.
+|[Speaker Selection Bias ](https://github.com/drupaldiversity/administration/blob/master/working-docs/speaker-selection-bias.md "speaker selection bias document") | A high level list of we believe a speaker selection committee can do to have a more diverse speaker line up at DrupalCon.
