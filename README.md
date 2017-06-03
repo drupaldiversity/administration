@@ -48,7 +48,6 @@ If there is an issue open in _any_ of our github repositories, it’s available 
 We try to label issues so that newcomers can quickly find tasks that match their interests. We borrowed this idea from [Girl Develop It’s issue queue](https://github.com/girldevelopit/gdi-website/issues "girl develop it issue queue).
 
 Here are some labels you can start with:
-    - [Help Wanted](http://bit.ly/ddi-issues-help-wanted "Help Wanted Issues")
     - [Tasks](http://bit.ly/ddi-issues-task "Task Issues")
     - [Discussion Issues](http://bit.ly/ddi-issues-discussion "Discussion Issues")
     - [Feedback Needed](http://bit.ly/ddi-issues-needs-feedback "Feedback Needed")
