@@ -12,7 +12,7 @@ DD&I Content Team
 
 - To cultivate a more inclusive Drupal community.
 - To give recognition to the diverse voices we have.
-- Transparency, public participation and collaboration
+- Transparency, public participation and collaboration.
 
 ## Audience
 *Who are we trying to reach?*
@@ -56,7 +56,7 @@ The content team will be used as a resource to discuss whether a negative intera
 ## Personal accountability
 *Do we disclose who is tweeting? Is that important if there's a unified message?*
 
-There should be a unified message and individual feelings or ideas should not be coming in through this account. Retweets/quoted tweets can be tweeted without disclosure. Individuals should not sign composed tweets with initials.
+There should be a unified message and individual feelings or ideas should **not** be coming in through this account. Retweets/quoted tweets can be tweeted without disclosure. Individuals should not sign composed tweets with initials.
 
 
 ## Dealing with Mistakes
@@ -78,12 +78,12 @@ For handling a negative situation:
 ## Responding to Harassment
 *What steps do we take when someone is harassing the group*
 
-How do we define harassment to the group (or it’s volunteers)?
+How do we define harassment to the group (or its volunteers)?
 - Comments that contain abusive, vulgar, offensive, threatening language, personal attacks of any kind, unsupported accusations, defamatory language or offensive terms that target specific individuals or groups.
 - Comments that reveal personally identifiable information (PII) or personal attacks against volunteers of this group.
 
 How do we respond to the harassment?
-- Moderation and participation guidelines
+- Moderation and participation guidelines.
 - Talk within the group and leadership to discuss the situation.
 - Report the harassment to Twitter
 - Possibly escalate to the CWG.
