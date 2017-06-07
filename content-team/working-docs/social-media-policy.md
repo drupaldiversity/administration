@@ -2,9 +2,9 @@
 DD&I Content Team
 
 ## Channels
-- Twitter
-- Instagram
-- Drupaldiversity.com blog
+- [Twitter](https://twitter.com/drupaldiversity, "Drupal Diversity Twitter")
+- [Instagram](https://www.instagram.com/drupaldiversity/, "Drupal Diversity Instagram" )
+- [Drupaldiversity.com blog](https://drupaldiversity.github.io/, "Drupal Diversity Blog")
 - Newsletter 
 
 ## Purpose
