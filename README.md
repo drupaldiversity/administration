@@ -45,7 +45,7 @@ We welcome all types of contributors - programmers, content managers, project su
 ### Issue Queue
 If there is an issue open in _any_ of our github repositories, it’s available to be worked on. We love to see people in the issue queues, and welcome people jumping in wherever they feel comfortable. 
 
-We try to label issues so that newcomers can quickly find tasks that match their interests. We borrowed this idea from [Girl Develop It’s issue queue](https://github.com/girldevelopit/gdi-website/issues "girl develop it issue queue).
+We try to label issues so that newcomers can quickly find tasks that match their interests. We borrowed this idea from [Girl Develop It’s issue queue](https://github.com/girldevelopit/gdi-website/issues "girl develop it issue queue").
 
 Here are some labels you can start with:
     - [Tasks](http://bit.ly/ddi-issues-task "Task Issues")
