@@ -12,6 +12,7 @@ DD&I Content Team
 - To cultivate a more inclusive Drupal community.
 - To give recognition to the diverse voices we have.
 - Transparency, public participation and collaboration.
+- To foster transparency, public participation, and collaboration."
 
 ## Audience
 
