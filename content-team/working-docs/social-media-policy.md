@@ -8,14 +8,12 @@ DD&I Content Team
 - Newsletter 
 
 ## Purpose
-*What are we attempting to achieve with our social media?*
 
 - To cultivate a more inclusive Drupal community.
 - To give recognition to the diverse voices we have.
 - Transparency, public participation and collaboration.
 
 ## Audience
-*Who are we trying to reach?*
 
 - For the community.
 - For the volunteers who contribute to our issue queue.
@@ -23,7 +21,6 @@ DD&I Content Team
 - For people who organize and attend Drupal events.
 
 ## Content
-*What types of content do we post? How does that content support our mission? What do our audiences want to hear?*
 
 We want to post content that is related to diversity (age/race/gender/religion/more) and/or tech and various places where these issues cross over. Sharing content with different perspectives and difference voices allows us to learn and grow in our understanding.
 
@@ -32,7 +29,6 @@ We want people in the community to feel included. By being more aware of how we 
 I also think we should look through the list of articles we’ve been compiling to read and see what should be shared, and make sure we are sharing factual resources as well - various information on diversity 101, links to sessions, presentations, articles, faqs, etc.  
 
 ## Tone
-*What is the tone of our communication? What types of interactions are encouraged/discouraged?*
 
 - We assume good intentions until proven otherwise.
 - Rational
@@ -54,13 +50,11 @@ The content team will be used as a resource to discuss whether a negative intera
 
 
 ## Personal accountability
-*Do we disclose who is tweeting? Is that important if there's a unified message?*
 
 There should be a unified message and individual feelings or ideas should **not** be coming in through this account. Retweets/quoted tweets can be tweeted without disclosure. Individuals should not sign composed tweets with initials.
 
 
 ## Dealing with Mistakes
-*If there's a grammar mistake, spelling error, factual error, mis-wording, how do we effectively deal with it?*
 
 Before posting, we should verify all content as a credible source.
 
@@ -76,7 +70,6 @@ For handling a negative situation:
 - Discuss the situation with the content team and/or the leadership team to decide on the best approach to handle the situation.
 
 ## Responding to Harassment
-*What steps do we take when someone is harassing the group*
 
 How do we define harassment to the group (or its volunteers)?
 - Comments that contain abusive, vulgar, offensive, threatening language, personal attacks of any kind, unsupported accusations, defamatory language or offensive terms that target specific individuals or groups.
