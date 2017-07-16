@@ -22,7 +22,7 @@ DD&I Content Team
 
 ## Content
 
-We want to post content that is related to diversity (age/race/gender/religion/more) and/or tech and various places where these issues cross over. Sharing content with different perspectives and difference voices allows us to learn and grow in our understanding.
+We want to post content that is related to diversity and inclusion (age/race/gender/religion/more) and/or tech and various places where these issues cross over. Sharing content with different perspectives and different voices allows us to learn and grow in our understanding.
 
 We want people in the community to feel included. By being more aware of how we treat each other and being intentional about the kinds of things we post, we can demonstrate that awareness.
 
@@ -40,11 +40,10 @@ I also think we should look through the list of articles we’ve been compiling 
 
 On social media, we will strive to encourage positive interactions with followers and be a compassionate voice in the community.
  We will:
-- Be careful of what we like or retweet.  Like things judiciously and that apply directly to our mission. Do not “like” anything we would not tweet from the account.
+- Be intentional of what we like or retweet.  Like things judiciously and that apply directly to our mission. Do not “like” anything we would not tweet from the account.
 
 In the face of negative interactions, we will consider replying with compassion versus ignoring i.e:
   - “We’d love to have you involved, how can we help?”
-  - “We’re sorry you feel that way, can we better explain?”
 
 The content team will be used as a resource to discuss whether a negative interaction should be replied to and how. Serious situations will be escalated to the Leadership team for advice.
 
