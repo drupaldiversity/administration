@@ -12,13 +12,13 @@ DD&I Content Team
 - To cultivate a more inclusive Drupal community.
 - To give recognition to the diverse voices we have.
 - Transparency, public participation and collaboration.
-- To foster transparency, public participation, and collaboration."
+- To foster transparency, public participation, and collaboration.
 
 ## Audience
 
 - For the community.
 - For the volunteers who contribute to our issue queue.
-- For mentors, and teachers in teh Drupal community.
+- For mentors, and teachers in the Drupal community.
 - For people who organize and attend Drupal events.
 
 ## Content
@@ -27,7 +27,7 @@ We want to post content that is related to diversity and inclusion (age/race/gen
 
 We want people in the community to feel included. By being more aware of how we treat each other and being intentional about the kinds of things we post, we can demonstrate that awareness.
 
-I also think we should look through the list of articles we’ve been compiling to read and see what should be shared, and make sure we are sharing factual resources as well - various information on diversity 101, links to sessions, presentations, articles, faqs, etc.  
+We want to share the content that we are consuming, as well - links that we have compiled, links that are shared in the group, books that we read or recommend, and articles that we read. We also want to share information on basic Diversity 101, links to related sessions and presentations, as well as other factual resources.
 
 ## Tone
 
@@ -78,6 +78,6 @@ How do we define harassment to the group (or its volunteers)?
 How do we respond to the harassment?
 - Moderation and participation guidelines.
 - Talk within the group and leadership to discuss the situation.
-- Report the harassment to Twitter
+- Report the harassment to Twitter.
 - Possibly escalate to the CWG.
 
