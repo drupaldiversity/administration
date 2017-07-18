@@ -12,6 +12,8 @@ This group was created after DrupalCon New Orleans. Nikki Stevens & Karyn Cassio
 
 Nikki facilitated a follow up BOF was held the next day. Participants had so many ideas, and concerns and desires that we couldn’t do justice to most of them in the short amount of time we had. The general consensus seemed to be “Let’s keep talking about this so we can address everyone’s thoughts.” and so this group was created.
 
+In the spaces in which DD&I operates, we abide by these [Moderation and Participation Guidelines](http://bit.ly/ddiguidelines "Moderation and Participation Guidelines"). If you have feedback on these guidelines, please add your thoughts on [the moderation issue](https://github.com/drupaldiversity/administration/issues/68 "Moderation issue").
+
 ## Who we are
 
 The DD&I team does not yet have a formal structure. We are a collective of volunteers who all believe in advocating for diversity and inclusion.
