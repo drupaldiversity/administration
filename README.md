@@ -48,44 +48,16 @@ If there is an issue open in _any_ of our github repositories, it’s available 
 We try to label issues so that newcomers can quickly find tasks that match their interests. We borrowed this idea from [Girl Develop It’s issue queue](https://github.com/girldevelopit/gdi-website/issues "girl develop it issue queue").
 
 Here are some labels you can start with:
-    - [Tasks](http://bit.ly/ddi-issues-task "Task Issues")
-    - [Discussion Issues](http://bit.ly/ddi-issues-discussion "Discussion Issues")
-    - [Feedback Needed](http://bit.ly/ddi-issues-needs-feedback "Feedback Needed")
+
+- [Tasks](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3ATask) quick things you can work on!
+- [Discussions](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3ADiscussion) things we would like to hear your opinion and thoughts on!
+- [Intiatives](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3AInitiative) the stuff we're working on that needs volunteers and voices!
 
 ### Teams
-We have teams dedicated to working on certain issues, the website, meetings and projects.
 
-| Team        | Description    | Current Focus | Links      
-|-------------|----------------|---------------| ---------------
-| Leadership Team | Define the group mission and long term strategies, check in with the other teams and represent the group publicly. | Supporting the newly created teams and drafting a position statement. | [Leadership issues](http://bit.ly/ddi-issues-leadership "leadership team issues")
-| Content Team |  Update social media channels, write/edit website and project content, coordinate the newsletter, and manage social crisis issues.| Organizing internal team efforts, communication efforts, and pushing for the creation of content | [Project Board](http://bit.ly/ddi-content-project-board "content team project board")
-| Technical Team | Keeping the ship duct-taped together, managing the technical side of the website and deploying new widgets/tool/surveys. Also maintaining the repos and Gitbooks.| Getting a monthly meeting scheduled and outlining needed tasks, both those to support the other teams and team-internal. | [Project board](http://bit.ly/ddi-tech-project-board "tech team project board")
-| Design Team | Coordinate design efforts and keep a consistent style guide on the website and projects.| Setting up the project, meeting, and creating tasks for the team.| [Project board](http://bit.ly/ddi-design-project-board "design team project board")
-| Moderation Guidance Team | Define moderation guidelines, support moderators, and provide tools for effective discussions.| Setting up the team meeting and discussions around moderation guidelines. | [Issue Queue](https://github.com/drupaldiversity/moderation-guidance/issues)
-
-#### I want to join a team!
-- Read more about [our teams](https://drupaldiversity.github.io/2017/05/11/teams.html "about the ddi teams")
-
-- Check out [our calendar](https://calendar.google.com/calendar/embed?src=c0ovgjsi6p70huaunbe2a3mpj8%40group.calendar.google.com&ctz=America/Los_Angeles "ddi html calendar") and attend the next meeting for the team you’re interested in. 
-
-If you’d like to contact a team lead to get involved right away: 
-
-| Team        | Leader    
-|-------------|----------------
-| Leadership  | [@drnikki](https://github.com/drnikki "drnikki on github")
-| Content | [@sugaroverflow](https://github.com/sugaroverflow "sugaroverflow on github")
-| Technical | [@cleverington](https://github.com/cleverington "cleverington on github" )
-| Design | [@cottser](https://github.com/cottser "cottser on github")
-| Moderation Guidance | [@alannaburke](https://github.com/alannaburke "alannaburke on github")
-
-																																									   
-## Ongoing Projects
-
-**Event Organizer Packet**
-- Creating a guide for camp organizers to identify strategies they can use to increase diversity at their camps, possible roadblocks, solutions, and ways to make camps feel more inclusive. 
-- [Link to Repo]
-- [[Introduction]]
-- [Current open issues] for discussion. 
+Teams are currently on pause as we need more volunteers to do the work that we do. Get involved by attending our meetings and participating in our [issue queue.](https://github.com/drupaldiversity/administration/issues)															   
+## Initiatives 
+- We're currently working on getting some new initiatives off the ground. [Check out the intiatives label in our issue queue](https://github.com/drupaldiversity/administration/issues?q=is%3Aopen+is%3Aissue+label%3AInitiative) to see what's upcoming. 
 
 ## Resources
 - The reading list [https://github.com/drupaldiversity/administration/issues/83] 
